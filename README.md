@@ -1,5 +1,5 @@
 # testenreda
-Muy buenas,solo estan los modelos practicamente lo demás no me a dado tiempo por otros motivos.
+Muy buenas,solo estan los modelos practicamente, lo demás no me ha dado tiempo por otros motivos.
 
 Para probarlo simplemente descargar la carpeta y dentro de ella en el CMD poner:
 python manage.py runserver
